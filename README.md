@@ -118,7 +118,7 @@ Stellantis (anteriormente Chrysler): Incluye marcas icónicas como Jeep, Dodge y
 Tecnología Autónoma: Están avanzando en la investigación y desarrollo de tecnologías de conducción autónoma para mejorar la seguridad y la eficiencia en la carretera.</p>
     </section>
 
-    <section>
+<section>
         <h1>Características de los Carros Americanos</h1>
 <strong><h2>1. Tamaño y Potencia:</h2></strong>
 <p>Los vehículos estadounidenses, como las camionetas y SUVs, son conocidos por su tamaño grande y motores potentes (V6 y V8), lo que les permite ofrecer un alto rendimiento y capacidad de remolque.</p>
@@ -133,8 +133,7 @@ Tecnología Autónoma: Están avanzando en la investigación y desarrollo de tec
 <strong><h2>6. Cultura de Muscle Cars:</h2></strong>
 <p>Los "muscle cars" como el Ford Mustang, Chevrolet Camaro y Dodge Charger son emblemáticos en la cultura automovilística estadounidense, caracterizados por sus potentes motores y diseño deportivo.</p>
     </section>
-
-    <section>
+<section>
         <h1>Fabricantes Principales</h1>
         <ol>
 <li><strong><h2>Ford Motor Company:</li></strong></h2>
@@ -180,10 +179,10 @@ Tecnología Autónoma: Están avanzando en la investigación y desarrollo de tec
 <img src="Lucid Air 1.jpg" width="360" height="300">
 <img src="Lucid Air 2.jpg" width="360" height="300">
 
-        </ol>
+</ol>
     </section>
 
-    <section>
+<section>
         <h2>Más Información</h2>
         <p>Para ver un video sobre los carros americanos, haz clic en el siguiente enlace:</p>
         <p><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"><i class="fab fa-youtube youtube-icon"></i><a href="https://www.youtube.com/watch?v=zZ-GnGl2QYo" target="_blank">Video en YouTube sobre Carros Americanos</a></p>
@@ -204,9 +203,8 @@ Tecnología Autónoma: Están avanzando en la investigación y desarrollo de tec
     // Mostrar la barra de cookies
     document.getElementById('cookie-banner').style.display = 'block';
 
-    function acceptCookies() {
+function acceptCookies() {
         document.getElementById('cookie-banner').style.display = 'none';
-        // Aquí puedes agregar más lógica para guardar la preferencia del usuario
        }
 </script>
 <section>
