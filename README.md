@@ -95,9 +95,8 @@ Tecnología Autónoma: Están avanzando en la investigación y desarrollo de tec
 <p>Fabricante de vehículos eléctricos de lujo, conocido por su sedán Lucid Air, que ofrece un diseño elegante, alta autonomía y tecnologías avanzadas. Lucid se enfoca en el mercado de lujo y compite directamente con Tesla en el segmento de vehículos eléctricos de alta gama.</p>
 <img src="Lucid Air 1.jpg" width="360" height="300">
 <img src="Lucid Air 2.jpg" width="360" height="300">
-
 </ol>
-    </section>
+</section>
 
 <section>
         <h2>Más Información</h2>
