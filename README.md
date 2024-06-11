@@ -4,68 +4,7 @@
 	<link rel="icon" type="text/css" href="Camaro.ico">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">   
-<title>Carros Americanos</title>
-    <style>
-        h1 {
-            font-size: 2em;
-            color: #333;
-        }
-        h2 {
-            font-size: 1.5em;
-            color: #555;
-        }
-        h3 {
-            font-size: 1.2em;
-            color: #777;
-            color: #333;
-        }
-        a {
-            color: #007BFF;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-         .youtube-icon, .google-icon {
-            font-size: 1.7em;
-            margin-right: 0.5em;
-        }
-        .youtube-icon {
-            color: #FF0000;
-        }
-        .google-icon {
-            color: #4285F4;
-        }
-         footer {
-            background-color: #333;
-            color: #fff;
-            padding: 0.5em 0;
-            text-align: center;
-            position: end;
-            width: 100%;
-            bottom: 0;
-        }
-        .cookie-banner {
-            background-color: #333;
-            color: #fff;
-            padding: 1em;
-            position: fixed;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-            text-align: center;
-            display: block;
-            padding: 15px;
-            z-index: 1000;
-        }
-        .cookie-banner button {
-            background-color: #007BFF;
-            color: #fff;
-            border: none;
-            padding: 10px 20px;
-            cursor: pointer;
-        }
-</style>
+<title> Carros Americanos </title>
 </head>
 <body>
 
