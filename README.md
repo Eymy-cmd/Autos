@@ -1,4 +1,3 @@
-
 <html lang="es">
 <head>
 	<link rel="icon" type="text/css" href="Camaro.ico">
@@ -54,42 +53,42 @@ Tecnología Autónoma: Están avanzando en la investigación y desarrollo de tec
 <section>
         <h1>Fabricantes Principales</h1>
         <ol>
-<li><strong><h2>Ford Motor Company:</li></strong></h2>
+<li><strong><h2>Ford Motor Company:</h2>
 <strong><h3>Modelos Icónicos:</h3></strong>
 <p>Ford F-Series, Mustang, Explorer.</p>
 <strong><h3>Descripción:</h3></strong>
 <p>Uno de los fabricantes más antiguos y grandes de Estados Unidos, conocido por sus camionetas robustas y vehículos deportivos. Ford ha sido pionero en tecnologías como la producción en masa y está invirtiendo significativamente en vehículos eléctricos.</p>
 <img src="Mustang.jpg" alt="2020 Ford Mustang Shelby GT500" width="400" height="300">
 <img src="Ford F-Series.jpg" alt="2020 Ford Mustang Shelby GT500" width="300" height="300">
-<li><strong><h2>General Motors (GM):</li></strong></h2>
+<li><strong><h2>General Motors (GM):</h2>
 <strong><h3>Marcas Principales:</h3></strong>
 <p>Chevrolet, GMC, Cadillac, Buick.</p>
 <strong><h3>Descripción:</h3></strong>
 <p>Un conglomerado automotriz que produce una amplia gama de vehículos, desde autos económicos hasta SUVs y camionetas de lujo. Chevrolet es conocida por sus modelos accesibles y deportivos, mientras que Cadillac es sinónimo de lujo.</p>
 <img src="Chevrolet Camaro.jpg" width="360" height="300">
 <img src="GMC.jpg" width="360" height="300">
-<li><strong><h2>Stellantis (anteriormente Fiat Chrysler Automobiles):</li></strong></h2>
+<li><strong><h2>Stellantis (anteriormente Fiat Chrysler Automobiles):</h2>
 <strong><h3>Marcas Principales:</h3></strong>
 <p>Jeep, Dodge, Ram, Chrysler.</p>
 <strong><h3>Descripción:</h3></strong>
 <p>Conocido por sus camionetas y SUVs robustos, como las camionetas Ram y los todoterrenos Jeep. Dodge es famoso por sus muscle cars, como el Charger y el Challenger.</p>
 <img src="Dodge SRT.jpg" width="300" height="300">
 <img src="JEEP.jpg" width="360" height="300">
-<li><strong><h2>Tesla, Inc.:</li></strong></h2>
+<li><strong><h2>Tesla, Inc.:</h2>
 <strong><h3>Modelos Icónicos:</h3></strong>
 <p>Model S, Model 3, Model X, Model Y.</p>
 <strong><h3>Descripción:</h3></strong>
 <p>Líder en vehículos eléctricos y tecnologías de conducción autónoma. Tesla ha revolucionado la industria automotriz con sus innovaciones y ha establecido un estándar alto para los vehículos eléctricos en términos de rendimiento y autonomía.</p>
 <img src="Modelo X.jpg" width="300" height="300">
 <img src="Modelo 3.jpg" width="300" height="300">
-<li><strong><h2>Rivian:</li></strong></h2>
+<li><strong><h2>Rivian:</h2>
 <strong><h3>Modelos Icónicos:</h3></strong>
 <p>R1T (camioneta), R1S (SUV).</p>
 <strong><h3>Descripción:</h3></strong> 
 <p>Un fabricante emergente de vehículos eléctricos, conocido por sus camionetas y SUVs eléctricos con capacidades todoterreno avanzadas. Rivian está atrayendo atención por sus innovaciones y enfoque en la sostenibilidad.</p>
 <img src="R1T.jpg" width="360" height="300">
 <img src="R1S.jpg" width="360" height="300">
-<li><strong><h2>Lucid Motors:</li></strong></h2>
+<li><strong><h2>Lucid Motors:</h2>
 <strong><h3>Modelos Icónicos:</h3></strong>
 <p>Lucid Air.</p>
 <strong><h3>Descripción:</h3></strong>
@@ -135,6 +134,5 @@ function acceptCookies() {
 </p>
 </footer>
 </section>
-
 </body>
 </html>
