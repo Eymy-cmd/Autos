@@ -190,7 +190,6 @@ Tecnología Autónoma: Están avanzando en la investigación y desarrollo de tec
         <p>Para buscar más información sobre los carros americanos, visita este enlace de Google:</p>
         <p><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"><i class="fab fa-google google-icon"></i><a href="https://es.wikipedia.org/wiki/Historia_de_la_automoci%C3%B3n" target="_blank">Buscar en Google sobre Carros Americanos</a></p>
     </section>
-
 <!-- Aviso de Cookies -->
 <div class="cookie-banner" id="cookie-banner">
     Utilizamos cookies para mejorar tu experiencia en nuestro sitio. 
