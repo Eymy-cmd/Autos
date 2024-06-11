@@ -4,7 +4,7 @@
 	<link rel="icon" type="text/css" href="Camaro.ico">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">   
-  <title>Carros Americanos</title>
+<title>Carros Americanos</title>
     <style>
         body {
             font-family: Arial, sans-serif;
