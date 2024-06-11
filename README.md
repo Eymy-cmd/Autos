@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
 	<link rel="icon" type="text/css" href="Camaro.ico">
